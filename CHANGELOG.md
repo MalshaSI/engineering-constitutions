@@ -5,7 +5,7 @@ All notable constitution changes are documented here.
 ## Unreleased
 
 - Proposed Spring guidance for API compatibility, outbound clients, schedulers, and validation placement.
-- Proposed Java guidance for JDBC value binding, dynamic SQL identifiers, resource cleanup, global mutable state, and concurrency ownership.
+- Proposed Java guidance for JDBC value binding, bounded large data retrieval, dynamic SQL identifiers, resource cleanup, global mutable state, and concurrency ownership.
 
 ## 1.0.0 - Initial Release
 
